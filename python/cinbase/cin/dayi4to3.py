@@ -10,9 +10,9 @@ class DAYI4TO3:
         self.filename = ""
         pass
 
-    def write(self):
+    def write(self, outputname):
         print("bufsize: %d " % len(self.buf))
-        with open(self.filename + ".tmp", 'w', encoding='utf8') as f:
+        with open(outputname, 'w', encoding='utf8') as f:
             for item in self.buf:
                 f.write("%s\n" % item)
 
@@ -66,8 +66,8 @@ class DAYI4TO3:
                                 if len(dkey) is 4:
                                     newdkey = dkey[0:2] + dkey[3]
                                     if newdkey not in keylist:
-                                        print("key %s : %s not in list, insert it" % (newdkey,
-                                            result.group(2).strip()))
+                                        # print("key %s : %s not in list, insert it" % (newdkey,
+                                        #    result.group(2).strip()))
                                         temp = newdkey + "  " + result.group(2).strip()
 
                                         # rarely situation one key will have two difference 4 key disassemble 
@@ -87,4 +87,4 @@ if __name__ == "__main__":
 
     dayi = DAYI4TO3()
     dayi.loaddayi("dayi4.cin")
-    dayi.write()
+    dayi.write("dayi4-add3.cin")
