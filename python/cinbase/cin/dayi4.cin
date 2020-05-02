@@ -2032,6 +2032,7 @@ z4  恓
 0b. 鈞
 0no 鉊
 0x. 鉖
+98d 蹭
 q.x 砯
 q/; 磈
 q/k 砭
@@ -2509,7 +2510,6 @@ ue5 芅
 ue9 芐
 ueg 芋
 uei 茉
-uej 艼
 ufc 荖
 ufd 著
 uff 茥
@@ -2771,7 +2771,6 @@ iqy 桃
 ir5 框
 irc 杞
 irk 根
-irp 桏
 irr 柜
 irs 杻
 irx 棣
@@ -2840,6 +2839,7 @@ o7. 呣
 o7j 喟
 o7v 咽
 o8n 吩
+o8l 嘦
 o9c 呲
 o9j 啃
 o9o 呫
@@ -3573,7 +3573,9 @@ h38 頁
 h3x 夏
 h7p 面
 h9e 丕
+h9f 甭
 h9h 鴀
+h9l 嫑
 h9o 否
 h9v 奀
 h;0 瓜
@@ -4210,7 +4212,6 @@ xfd 渚
 xff 洼
 xfj 清
 xfo 洁
-xfq 湱
 xft 浾
 xhc 泥
 xhi 淭
@@ -4892,6 +4893,7 @@ myq 雿
 /dc 癿
 /kh 鷑
 /rp 笻
+..f 堃
 1111 訓
 1118 順
 11rx 謏
@@ -8837,6 +8839,7 @@ o7ek 喂
 o7uk 噥
 o7vz 嗯
 o84d 噌
+o84l 嘦
 o88. 噂
 o8;b 嗡
 o8xn 嗲
@@ -10295,6 +10298,7 @@ fhey 塢
 fhff 堐
 fhmv 堧
 fho5 堿
+fhq1 謦
 fhrs 埠
 fhv9 壢
 fhww 堀
@@ -10820,6 +10824,7 @@ h3v1 奡
 h7p; 蠠
 h7pq 靦
 h84d 層
+h94l 嫑
 h9e5 戚
 h9e8 顣
 h9e9 歪
@@ -15433,6 +15438,7 @@ ir0  柩
 iej  柯
 iea  柄
 irp  柳
+irp  桏
 ie1  枰
 ire  柢
 ih9  柝
@@ -15500,6 +15506,7 @@ e;x  致
 umj  苧
 uxc  范
 uej  苛
+uej  艼
 unc  苑
 ubc  苞
 ua.  苓
@@ -17322,6 +17329,7 @@ x0x  潑
 xvt  潦
 xft  潔
 xfq  澆
+xfq  湱
 x4s  潭
 xij  潸
 xsj  潮
@@ -17660,6 +17668,7 @@ ciq  磨
 qe.  磚
 ed.  磚
 fhq  磬
+fh1  謦
 qf8  磧
 e2t  禦
 vf8  積
