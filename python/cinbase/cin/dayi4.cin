@@ -1349,6 +1349,7 @@ z4  恓
 160 謰
 16j 譋
 17j 謂
+17x 謖
 17z 諰
 180 謎
 18; 訟
@@ -1536,6 +1537,7 @@ z4  恓
 4ds 覃
 4e5 黓
 4e9 罡
+4eh 䴉
 4fd 署
 4ff 罣
 4fo 黠
@@ -2152,6 +2154,7 @@ wt, 岰
 wtj 峭
 wtt 幽
 wv6 輋
+wva 峽
 wva 岆
 wvf 峚
 wvl 崣
@@ -2748,6 +2751,7 @@ imn 刺
 imq 枕
 imu 柵
 imv 柍
+in, 橡
 in, 椽
 ina 杴
 ind 櫓
@@ -3059,6 +3063,7 @@ a9o 佔
 a;2 侔
 a;5 飪
 a;6 餔
+a;8 饋
 a;; 蝕
 a;a 似
 a;m 偊
@@ -3419,6 +3424,7 @@ g.n 刌
 g.s 抖
 g/d 拍
 g/k 抸
+g2c 拖
 g2c 扢
 g2o 捁
 g2v 抶
@@ -3563,7 +3569,6 @@ gdf 捚
 ghc 抳
 gmq 抭
 guu 掽
-gvc 扥
 h.5 戍
 h.s 戽
 h/c 尻
@@ -3754,6 +3759,7 @@ kdk 衰
 kdq 竟
 kds 章
 kdz 意
+kd. 韵
 keg 衧
 kei 襪
 kev 祆
@@ -4223,6 +4229,7 @@ xi. 沭
 xi3 湘
 xi4 湅
 xid 涷
+xie 渣
 xie 泍
 xii 淋
 xin 剎
@@ -4508,6 +4515,7 @@ bbr 羾
 bbu 羿
 bbx 夃
 bc/ 勼
+bcu 驢
 bcu 驉
 bd0 迿
 bdi 騍
@@ -5376,6 +5384,7 @@ myq 雿
 4eo0 還
 4eo5 罭
 4eob 翾
+4eoh 䴉
 4r.7 罶
 4rj5 罠
 4ta0 邏
@@ -11418,6 +11427,7 @@ kd/5 韹
 kdb/ 裼
 kdbb 禢
 kdbl 竭
+kdb. 韵
 kde/ 禓
 kde5 戠
 kde9 禔
@@ -15295,7 +15305,6 @@ gc,  拋
 ge1  抨
 gre  抵
 gbc  抱
-g2c  拖
 gh9  拆
 gff  抬
 ga.  拎
@@ -15600,7 +15609,6 @@ mhk  震
 mhk  宸
 hex  履
 hex  屐
-wva  峽
 w;x  峻
 wv5  峨
 hrw  島
@@ -16291,7 +16299,6 @@ xva  湊
 xvv  湊
 xri  渠
 xhf  渥
-xie  渣
 xh5  減
 xpl  湛
 xs,  渤
@@ -16513,6 +16520,7 @@ omo  嗣
 o7z  嗯
 ohy  嗚
 o8b  嗡
+o8n  嗲
 o/.  嗅
 oao  嗆
 o/s  嗥
@@ -16984,7 +16992,6 @@ ura  歉
 eoa  歌
 cdu  氳
 xks  漳
-xm8  演
 xkk  滾
 xk;  漓
 xko  滴
@@ -17299,6 +17306,7 @@ g2y  撫
 gjy  撚
 gby  撚
 gvc  撬
+gvc  扥
 g8.  撙
 g0a  撳
 k8x  敵
@@ -17618,7 +17626,6 @@ ibo  橘
 if.  樹
 irx  橄
 ipj  橢
-in,  橡
 ivo  橋
 ivc  橇
 iay  樵
@@ -17883,6 +17890,7 @@ ena  殮
 no.  毚
 k7c  氈
 xmj  濘
+xm8  演
 xm8  濱
 xm8  泬
 xkp  濟
@@ -18732,7 +18740,6 @@ x1i  灤
 128  讚
 0pp  鑷
 suy  韉
-bcu  驢
 b98  驥
 trq  纜
 1t4  讜
