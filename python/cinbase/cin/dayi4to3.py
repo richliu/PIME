@@ -1,7 +1,7 @@
 # encoding=utf8
 import os
 import re
-
+from collections import defaultdict
 
 class DAYI4TO3:
     def __init__(self):
@@ -29,13 +29,13 @@ class DAYI4TO3:
             with open(name, encoding='utf8') as f:
                 lines = [line.rstrip('\n') for line in f]
 
-
-                keylist = {}
+                # keylist = {}
+                keylist = defaultdict(list)
 
                 inscount = 1
 
                 for l in lines:
-                    if startconver is 0:
+                    if startconver == 0:
                         if l.find("%chardef begin"):
                             print("start convert")
                             startconver = 1
@@ -47,12 +47,13 @@ class DAYI4TO3:
                             # add 3 key first
                             if result:
                                 dkey = result.group(1).strip()
-                                keylist[dkey] = result.group(2).strip()
+                                # keylist[dkey] = result.group(2).strip()
+                                keylist[dkey].append(result.group(2).strip())
 
                         self.buf.append(l)
-                
+
                 for n, l in enumerate(lines):
-                    if startconver is 0:
+                    if startconver == 0:
                         if l.find("%chardef begin"):
                             print("start convert")
                             startconver = 1
@@ -63,19 +64,27 @@ class DAYI4TO3:
                             # add 3 key first
                             if result:
                                 dkey = result.group(1).strip()
-                                if len(dkey) is 4:
+                                dword = result.group(2).strip()
+
+                                if len(dkey) == 4:
                                     newdkey = dkey[0:2] + dkey[3]
+                                    toinsert = 0
                                     if newdkey not in keylist:
-                                        # print("key %s : %s not in list, insert it" % (newdkey,
-                                        #    result.group(2).strip()))
+                                        toinsert = 1
+                                    else:
+                                        if keylist[newdkey] != dword:
+                                            toinsert = 1
+
+                                    if toinsert == 1:
+                                        print("key %s(%s) : %s not in list, insert it" % (newdkey, dkey,
+                                            result.group(2).strip()))
                                         temp = newdkey + "  " + result.group(2).strip()
 
-                                        # rarely situation one key will have two difference 4 key disassemble 
-                                        keylist[newdkey] = result.group(2).strip()
+                                        # rarely situation one key will have two difference 4 key disassemble
+                                        # keylist[newdkey] = result.group(2).strip()
+                                        keylist[newdkey].append(result.group(2).strip())
                                         self.buf.insert(n + inscount, temp)
                                         inscount += 1
-
-
 
             f.close()
 
