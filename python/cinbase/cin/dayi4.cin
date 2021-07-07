@@ -1778,6 +1778,7 @@ z4  恓
 8nf 坌
 8nh 鳻
 8no 酩
+8np 鄰
 8np 邠
 8nu 弅
 8nw 岔
@@ -2132,6 +2133,7 @@ wmf 壆
 wmh 鷽
 wml 峖
 wmn 鱟
+wmq 覺
 wmq 礐
 wmu 盥
 wmv 岟
@@ -2596,6 +2598,7 @@ uv2 牶
 uv3 眷
 uv4 薰
 uva 芺
+uvc 卷
 uvc 芼
 uvd 藉
 uvd 萶
@@ -3063,7 +3066,6 @@ a9o 佔
 a;2 侔
 a;5 飪
 a;6 餔
-a;8 饋
 a;; 蝕
 a;a 似
 a;m 偊
@@ -4290,6 +4292,7 @@ xsj 肴
 xsl 泄
 xsm 沛
 xso 沽
+xss 湳
 xsx 汥
 xsy 洃
 xt, 泑
@@ -4660,6 +4663,7 @@ m8n 穸
 m8o 容
 m8r 空
 maa 肉
+mb, 霧
 mb, 雺
 mbg 字
 mc/ 宄
@@ -4823,6 +4827,7 @@ myq 雿
 /2q 筅
 /3, 臮
 /3i 臬
+/3o 齁
 /3p 郋
 /3q 筧
 /3u 算
@@ -15250,7 +15255,6 @@ kas  卒
 s,,  協
 /ds  卑
 /d1  卑
-uvc  卷
 2sp  卸
 2ep  卸
 /mp  卹
@@ -17505,7 +17509,6 @@ f.0  遨
 f,0  遨
 e70  遭
 4v0  遷
-8np  鄰
 p82  鄰
 88p  鄭
 0ep  鄧
@@ -18380,7 +18383,6 @@ l70  邋
 pkx  隴
 sof  難
 mx5  霪
-mb,  霧
 ci3  靡
 2ow  韜
 kd8  韻
@@ -18457,7 +18459,6 @@ utu  蘊
 ;k,  蠔
 ;m1  蠕
 kru  襤
-wmq  覺
 n4;  觸
 1u5  議
 ho1  譬
