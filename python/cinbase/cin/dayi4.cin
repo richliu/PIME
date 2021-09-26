@@ -323,6 +323,7 @@ x   乂
 5.  玉
 50  廷
 55  玨
+58  兲
 59  珿
 5;  丟
 5b  瑪
@@ -2243,6 +2244,7 @@ ex. 求
 ez5 忒
 e,0 豖
 eje 徂
+r,v 巭
 r/o 君
 r16 肅
 r1c 巴
@@ -2748,7 +2750,6 @@ im8 柼
 ima 枘
 imc 柁
 imf 柟
-imj 榾
 iml 桉
 imn 刺
 imq 枕
@@ -2889,6 +2890,7 @@ oh0 呎
 oh9 吥
 ohc 呢
 oie 呠
+oii 槑
 oje 咀
 ojg 呼
 ojh 鵑
@@ -3407,7 +3409,6 @@ ft, 坳
 ft; 赨
 ftp 郝
 ftx 赦
-fuf 垟
 fus 幸
 fv4 壎
 fvf 埲
@@ -3488,7 +3489,6 @@ gfj 掅
 gfo 拮
 gft 捇
 ggg 掱
-gh9 抔
 ghc 扤
 ghj 掮
 ghx 扳
@@ -3557,7 +3557,6 @@ gvf 捧
 gvl 捼
 gvy 揪
 gwf 捏
-gwq 掜
 gwr 捏
 gww 拙
 gx. 扠
@@ -3737,7 +3736,6 @@ k7i 裍
 k7s 袖
 k7v 裀
 k7z 禗
-k8n 衯
 k8o 裕
 k8x 交
 k9o 站
@@ -4099,7 +4097,6 @@ zjw 慆
 zk9 忭
 zkd 愔
 zkl 忙
-zlx 怓
 zm6 惲
 zmj 愲
 zmq 忱
@@ -4303,6 +4300,7 @@ xu7 渵
 xu9 淽
 xuf 洋
 xus 泮
+xuu 溢
 xuu 洴
 xv. 汰
 xva 沃
@@ -4655,6 +4653,7 @@ m60 運
 m61 寣
 m6h 鶤
 m6p 鄆
+m77 靐
 m7s 宙
 m83 窅
 m8c 穵
@@ -6889,6 +6888,7 @@ ewex 徽
 ewex 黴
 ewex 鰴
 ee11 井
+ee1. 丼
 ee2j 衙
 ee95 武
 ee9h 鵡
@@ -8937,6 +8937,7 @@ oiaa 唻
 oide 喳
 oiit 噤
 oioa 嗽
+oioi 槑
 oion 喇
 oo.1 喌
 oo11 丳
@@ -13783,6 +13784,7 @@ m6ei 寐
 m6eo 寤
 m6h8 顐
 m6rx 寢
+m7m7 靐
 m7s8 實
 m7s8 霬
 m8/. 窗
@@ -15310,6 +15312,7 @@ ge1  抨
 gre  抵
 gbc  抱
 gh9  拆
+gh9  抔
 gff  抬
 ga.  拎
 8x1  斧
@@ -16232,6 +16235,7 @@ z3n  惻
 zw1  惴
 z;q  慨
 zlx  惱
+zlx  怓
 zlw  惱
 zln  惱
 z2x  愎
@@ -16449,6 +16453,7 @@ f9o  超
 f9/  趁
 9s.  跋
 9me  跚
+9mx  叡
 9bc  跑
 6ej  軻
 sos  辜
@@ -16626,7 +16631,6 @@ wrx  毀
 hsx  殿
 27q  毓
 vc0  毽
-xuu  溢
 xuj  溯
 xms  滓
 xmo  溶
@@ -16905,6 +16909,7 @@ kof  塾
 fkq  境
 udf  墓
 fuf  墊
+fuf  垟
 6hf  塹
 dff  墅
 fvx  塽
@@ -17558,6 +17563,7 @@ akp  儕
 mu1  冪
 .c9  凝
 k8n  劑
+k8n  衯
 /3n  劓
 oa;  噙
 okz  噫
@@ -18111,6 +18117,7 @@ iu,  檬
 ir8  櫃
 iru  檻
 imj  檸
+imj  榾
 ibf  櫂
 ibf  杻
 if.  檮
@@ -18645,6 +18652,7 @@ wox  巖
 1tg  攣
 g3x  攫
 gwq  攪
+gwq  掜
 dec  曬
 iec  欐
 528  瓚
