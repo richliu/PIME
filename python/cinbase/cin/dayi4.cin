@@ -1110,6 +1110,7 @@ xu  濫
 xv  漢
 xw  凶
 xx  爻
+xx  双
 xy  濕
 xz  沁
 y.  瑩
@@ -1953,7 +1954,6 @@ z4  恓
 0de 鉭
 0df 鋰
 0di 錁
-0e5 釴
 0e9 鉦
 0eg 釪
 0ej 釘
@@ -2101,6 +2101,7 @@ w23 岝
 w2c 屹
 w3q 峴
 w5q 鼫
+w68 輿
 w7, 舅
 w7s 岫
 w7z 崽
@@ -2214,7 +2215,6 @@ en. 亙
 enc 死
 enh 殦
 enn 列
-eoj 可
 eou 豆
 eox 吏
 eq; 虺
@@ -2690,6 +2690,7 @@ ibo 枸
 ic/ 朹
 ic; 蚻
 icc 枇
+icd 楷
 icd 栺
 ict 紮
 icw 杶
@@ -2955,6 +2956,7 @@ oft 哧
 onn 哆
 ov. 呔
 p/. 髣
+p/; 鬆
 p/; 隗
 p/p 髶
 p23 阼
@@ -4317,6 +4319,7 @@ xx2 洚
 xxd 涾
 xxo 洛
 xxx 淼
+xxx 叒
 xyq 洮
 xyy 淡
 xz/ 泌
@@ -4757,6 +4760,7 @@ myq 雿
 ,je 狙
 ,k9 犿
 ,kq 犺
+,ks 猝
 ,m8 狖
 ,mj 猾
 ,mo 猧
@@ -4849,6 +4853,7 @@ myq 雿
 /af 筌
 /ai 筡
 /ao 答
+/ax 筱
 /b. 笉
 /b/ 笏
 /bb 乃
@@ -12692,6 +12697,7 @@ xxxe 疊
 xxxh 鵽
 xxxi 桑
 xxxn 剟
+xxxx 叕
 xxxx 敪
 xxxa 歠
 xc/. 汛
@@ -15231,6 +15237,7 @@ pec  阮
 pe1  阱
 v1c  乖
 jbc  乳
+eoj  可
 eoj  事
 9ce  些
 e1e  亞
@@ -16612,7 +16619,6 @@ ddl  暍
 i.p  榔
 uui  業
 ii9  楚
-icd  楷
 iss  楠
 ifv  楔
 iee  極
@@ -17791,6 +17797,7 @@ uup  鄴
 0ho  鋸
 0bu  錳
 0e5  錢
+0e5  釴
 0mw  鋼
 0d/  錫
 0jj  錚
@@ -18255,7 +18262,6 @@ vdx  馥
 bvj  騎
 mji  髁
 p/t  鬃
-p/;  鬆
 vl;  魏
 /;a  魎
 /;l  魍
