@@ -16,7 +16,9 @@ class DAYI4TO3:
             for item in self.buf:
                 f.write("%s\n" % item)
 
-            f.write("%chardef end")
+            # dayi4.cin 本身已有 %chardef end，就不要再補一行
+            if not self.buf or self.buf[-1].strip() != "%chardef end":
+                f.write("%chardef end\n")
             f.close()
 
     def loaddayi(self, name):
@@ -36,7 +38,7 @@ class DAYI4TO3:
 
                 for l in lines:
                     if startconver == 0:
-                        if l.find("%chardef begin"):
+                        if "%chardef begin" in l:
                             print("start convert")
                             startconver = 1
                         self.buf.append(l)
@@ -52,9 +54,10 @@ class DAYI4TO3:
 
                         self.buf.append(l)
 
+                startconver = 0
                 for n, l in enumerate(lines):
                     if startconver == 0:
-                        if l.find("%chardef begin"):
+                        if "%chardef begin" in l:
                             print("start convert")
                             startconver = 1
                     else:
@@ -72,7 +75,7 @@ class DAYI4TO3:
                                     if newdkey not in keylist:
                                         toinsert = 1
                                     else:
-                                        if keylist[newdkey] != dword:
+                                        if dword not in keylist[newdkey]:
                                             toinsert = 1
 
                                     if toinsert == 1:
