@@ -1,0 +1,192 @@
+套用依據: /DISK/raid/work/PIME/python/cinbase/cin/dayi4-order-recommend.txt
+來源: /DISK/raid/work/PIME/python/cinbase/cin/dayi4.cin
+輸出: /DISK/raid/work/PIME/python/cinbase/cin/dayi4-new.cin
+
+重排/合併的鍵: 146  新增三碼項: 30  濾掉簡體: 2  跳過: 0
+
+== 變更明細 ==
+.p    邡郎           -> 郎邡             B 採PR順序
+0.    鈁鈴           -> 鈴鈁             B 採PR順序
+0/    釤鈔           -> 鈔釤             B 採PR順序
+0c    釔釓鏕鉋         -> 鉋釔釓鏕           B 採PR順序
+0d    鈤錯           -> 錯鈤             B 採PR順序
+0f    釷鐘           -> 鐘釷             B 採PR順序
+0j    鈅銷           -> 銷鈅             B 採PR順序
+0l    釹鏤           -> 鏤釹             B 採PR順序
+0p    鉺銵鄧          -> 鄧鉺銵            B 採PR順序
+0q    鉐鏡           -> 鏡鉐             B 採PR順序
+0y    鈥鎢           -> 鎢鈥             B 採PR順序
+6.    閍輈轉          -> 轉閍輈            B 採PR順序
+71    圁界           -> 界圁             B 採PR順序
+;c    虯螰能          -> 能虯螰            B 採PR順序
+ap    佴命           -> 命佴             B 採PR順序
+bp    駬那           -> 那駬             B 採PR順序
+d.    昉時           -> 時昉             B 採PR順序
+dy    炅炚照          -> 照炅炚            B 採PR順序
+fq    砉境           -> 境砉             B 採PR順序
+gj    抈打           -> 打抈             B 採PR順序
+hb    万鷌扇          -> 扇万鷌            B 採PR順序
+ig    杽李           -> 李杽             B 採PR順序
+lv    姀娛           -> 娛姀             B 採PR順序
+m.    雱零           -> 零雱             B 採PR順序
+mo    咼露           -> 露咼             B 採PR順序
+n;    触觸           -> 觸触             B 採PR順序
+nr    魟龜           -> 龜魟             B 採PR順序
+oj    肙啊           -> 啊肙             B 採PR順序
+oy    吙嗚           -> 嗚吙             B 採PR順序
+uc    芞蔍卷          -> 卷芞蔍            B 採PR順序
+xf    圣夆溝          -> 溝圣夆            B 採PR順序
+zs    愅悍           -> 悍愅             B 採PR順序
+.en   冱冽           -> 冽冱             B 採PR順序
+/a5   筏籤           -> 籤筏             B 採PR順序
+/d1   笚卑帛          -> 卑帛笚            B 採PR順序
+/ds   皁卑皋          -> 卑皋皁            B 採PR順序
+0hx   鈑鍛           -> 鈑鍛鍜            A+MERGE 合併 鍜
+0kf   鉒鐘           -> 鐘鉒             B 採PR順序
+0kk   銥鑲           -> 鑲銥             B 採PR順序
+0kq   鈧鏡           -> 鏡鈧             B 採PR順序
+0vf   錘鍾           -> 鍾錘             B 採PR順序
+1mo   詗調           -> 調詗             B 採PR順序
+38t   賒賺           -> 賺賒             B 採PR順序
+4e0   瓢還           -> 還瓢             B 採PR順序
+5e.   球琢           -> 球琢瑼            A+MERGE 合併 瑼
+6e.   鬥轉           -> 轉鬥             B 採PR順序
+6oo   閭闆           -> 闆閭             B 採PR順序
+8df   粴糧           -> 糧粴             B 採PR順序
+8x1   斧幣           -> 幣斧             B 採PR順序
+9bi   跺蹂           -> 蹂跺             B 採PR順序
+;ks   蟀蟑           -> 蟑蟀             B 採PR順序
+a/x   傻伋           -> 傻伋儌            A+MERGE 合併 儌
+a48   僳價           -> 價僳             B 採PR順序
+a7o   佪個           -> 個佪             B 採PR順序
+a;c   飩飽餛          -> 飽餛飩            B 採PR順序
+a;o   佁飼飴餉膳        -> 飼佁餉飴膳          B 採PR順序
+ab8   酓貪領頷         -> 領貪頷酓           B 採PR順序
+aej   仃何           -> 何仃             B 採PR順序
+akx   隻傚雙          -> 隻傚雙佼儱          A+MERGE 合併 佼儱
+asj   侑舒           -> 舒侑             B 採PR順序
+asx   伎做           -> 做伎             B 採PR順序
+c..   疣疼痔瘀         -> 疼痔瘀疣           B 採PR順序
+c.1   疥痺           -> 痺疥             B 採PR順序
+c.9   症癡           -> 症癡瘲            A+MERGE 合併 瘲
+c.;   痋瘋癘          -> 瘋癘痋            B 採PR順序
+c.c   疕疙疤疵         -> 疕疙疵疤           B 採PR順序
+c.e   疳疽疸          -> 疸疽疳            B 採PR順序
+c.f   痊痛癬癱         -> 痛痊癬癱           B 採PR順序
+c.n   痢瘉           -> 痢瘉痸瘌痑          A+MERGE 合併 痸瘌痑
+c.o   痂痞痴瘩瘡        -> 痂痴瘡痞瘩          B 採PR順序
+c.r   疘痙瘧          -> 疘瘧痙            B 採PR順序
+c.s   瘴瘁痺癖         -> 痺癖瘴瘁           B 採PR順序
+c.u   痘瘟癟          -> 痘瘟癟痹𤷪          A+MERGE 合併 痹𤷪
+e8x   徶爾           -> 爾徶             B 採PR順序
+f9o   坫超趟          -> 超坫趟            B 採PR順序
+f9w   趨赸           -> 趨赸趉            A+MERGE 合併 趉
+gdx   撮擻           -> 擻撮             B 採PR順序
+ghf   捱握           -> 握捱             B 採PR順序
+ghw   掘搗           -> 搗掘             B 採PR順序
+gko   掊搞摘          -> 摘搞掊            B 採PR順序
+gr1   拂掃           -> 掃拂             B 採PR順序
+gvt   捺撩           -> 撩捺             B 採PR順序
+hr1   帥師歸          -> 師歸帥            B 採PR順序
+iee   桓極           -> 極桓             B 採PR順序
+iej   朾柯桁          -> 柯桁朾            B 採PR順序
+imo   桐榕櫺          -> 榕桐櫺            B 採PR順序
+iuf   樺權           -> 權樺             B 採PR順序
+jhk   脈脤           -> 脈脤𦟌            A+MERGE 合併 𦟌
+jm8   腆臏           -> 臏腆             B 採PR順序
+jr0   腱腿           -> 腿腱             B 採PR順序
+jtf   膛雞           -> 雞膛             B 採PR順序
+jvb   胰胯           -> 胯胰             B 採PR順序
+kj5   氓望           -> 望氓             B 採PR順序
+koj   裐亨亭膏         -> 亭亨膏裐           B 採PR順序
+kox   敦敨敲          -> 敦敨敲毃           A+MERGE 合併 毃
+kss   辨辦瓣辮辯        -> 辦辨辯瓣辮          B 採PR順序
+m83   窅窄           -> 窄窅             B 採PR順序
+m8c   穵究           -> 究穵             B 採PR順序
+mju   髒體           -> 髒體骿            A+MERGE 合併 骿
+no,   劭勉           -> 勉劭             B 採PR順序
+o4f   嚜囉           -> 囉嚜             B 採PR順序
+ofo   咭嘻           -> 嘻咭             B 採PR順序
+oft   嗉哧嚇          -> 嚇嗉哧            B 採PR順序
+oh5   喊嘎           -> 喊嘎嘁            A+MERGE 合併 嘁
+okx   呅咬嚨          -> 咬呅嚨            B 採PR順序
+ouv   噗囌           -> 噗囌嗼咲           A+MERGE 合併 嗼咲
+ovf   唪唾           -> 唾唪             B 採PR順序
+p/.   髣髮           -> 髮髣             B 採PR順序
+p/c   髡髦髭          -> 髭髡髦            B 採PR順序
+pej   耵阿           -> 阿耵             B 採PR順序
+qmo   碢碉           -> 碉碢             B 採PR順序
+r18   賢頤           -> 賢頤贕賮賾          A+MERGE 合併 贕賮賾
+rbb   弼粥           -> 粥弼             B 採PR順序
+rfe   晝畫           -> 畫晝             B 採PR順序
+taf   絟維雀          -> 維雀絟            B 採PR順序
+te5   絨線           -> 線絨             B 採PR順序
+tjx   綬緩           -> 緩綬             B 採PR順序
+tmd   嘗縮           -> 縮嘗             B 採PR順序
+tmr   綰繩           -> 繩綰             B 採PR順序
+tr1   紼繡           -> 繡紼             B 採PR順序
+uao   荅蓓蒼          -> 蒼蓓荅            B 採PR順序
+ucy   藨蔗薦          -> 薦蔗藨            B 採PR順序
+uej   苛艼           -> 苛艼荇蘅           A+MERGE 合併 荇蘅
+umo   萵蓉           -> 蓉萵             B 採PR順序
+ura   芵歉           -> 歉芵             B 採PR順序
+usx   芰苃叛          -> 叛芰苃            B 採PR順序
+uu.   瓶對           -> 瓶對薱            A+MERGE 合併 薱
+uvf   菶董           -> 董菶             B 採PR順序
+uxi   莯藻           -> 藻莯             B 採PR順序
+x/.   汍溴           -> 溴汍             B 採PR順序
+xbc   氾池泡          -> 泡氾池            B 採PR順序
+xbw   涵洶淘          -> 淘涵洶            B 採PR順序
+xdy   燙濕           -> 濕燙             B 採PR順序
+xec   沅沌灑          -> 沅沌灑沘           A+MERGE 合併 沘
+xft   浾溹潔          -> 潔浾溹            B 採PR順序
+xhf   涯渥           -> 涯渥湹垽           A+MERGE 合併 湹垽
+xko   涪滴           -> 涪滴滈            A+MERGE 合併 滈
+xkt   泫涼           -> 涼泫             B 採PR順序
+xmi   浨深           -> 深浨             B 採PR順序
+xmj   滑濘灞          -> 滑灞濘            B 採PR順序
+xmo   渦泂洞溶         -> 渦泂溶洞           B 採PR順序
+xrd   潛湣           -> 潛湣涽            A+MERGE 合併 涽
+xru   盥濫           -> 濫盥             B 採PR順序
+xrx   浸瀰           -> 浸瀰澉            A+MERGE 合併 澉
+ykx   炆燉           -> 燉炆             B 採PR順序
+zaf   恮惟           -> 惟恮             B 採PR順序
+
+== 新增的三碼項 ==
+0hx   鍜 [Big5]
+5e.   瑼 [Big5]
+a/x   儌 [Big5]
+akx   佼 [Big5]
+akx   儱 [Big5]
+c.9   瘲 [Big5]
+c.n   痸 [Big5]
+c.n   瘌 [Big5]
+c.n   痑 [Big5]
+c.u   痹 [Big5]
+c.u   𤷪 [擴充]
+f9w   趉 [Big5]
+jhk   𦟌 [擴充]
+kox   毃 [Big5]
+mju   骿 [Big5]
+oh5   嘁 [Big5]
+ouv   嗼 [Big5]
+ouv   咲 [擴充]
+r18   贕 [Big5]
+r18   賮 [Big5]
+r18   賾 [Big5]
+uej   荇 [Big5]
+uej   蘅 [Big5]
+uu.   薱 [Big5]
+xec   沘 [Big5]
+xhf   湹 [Big5]
+xhf   垽 [Big5]
+xko   滈 [Big5]
+xrd   涽 [Big5]
+xrx   澉 [Big5]
+
+== 濾掉的簡體字 ==
+0hx   锻
+0hx   钣
+
+== 跳過 (目前順序與表不符或標籤不明) ==
+
